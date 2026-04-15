@@ -1,0 +1,45 @@
+---
+title: "Research vision"
+output: html_document
+---
+<!--- Aim: To show the shape of the central question -->
+<!--- Set up --->
+```{r set-up, include=FALSE}
+library(here)
+library(dplyr)
+library(readr)
+library(tidyr)
+library(tibble)
+library(purrr)
+library(ggplot2)
+library(patchwork)
+library(kableExtra)
+theme_set(theme_classic())
+knitr::opts_chunk$set(
+  eval = TRUE, echo = FALSE,
+  message = FALSE, warning = FALSE
+)
+```
+
+```{r data}
+# Simulate data with a quadratic relationship and random x-values
+set.seed(123)
+qt <- 1:10
+ql <- c(5,6,7,8,9,10,9,8,7,6)
+q2 <- qt^2
+
+qt2values <- seq(0, 10, 0.1)
+quadratic.model <-lm(ql ~ qt + q2)
+predictedql <- predict(quadratic.model, list(qt=qt, q2=qt2values^2))
+plot(qt, ql)
+lines(qtvalues, predictedql, col = "darkgreen", lwd = 3)
+```
+
+role of modelling in decision making under pressure: high uncertainty, time-critical decision-making
+- time constrained
+- limited data
+- models no substitute for data; suggest what data to collect
+
+We should be clear about the cost-effectiveness of additional investment in modelling effort
+Ensemble performance reflects a bias-variance trade-off
+We can adopt the concept of "effective sample size" - 

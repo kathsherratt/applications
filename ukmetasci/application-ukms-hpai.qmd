@@ -1,0 +1,277 @@
+---
+title: "Draft proposals: UK Metascience Round 2"
+format: html
+---
+
+# UK Metascience Round 2 — Application Draft
+
+**Application ref:** APP110290
+**Theme:** Science of AI for Science
+**Project lead:** Katharine Sherratt, LSHTM
+**Working title:** What does AI change about scientific consensus? A controlled evaluation
+
+---
+
+## 1. Summary (550 words max)
+
+When governments face complex decisions, they often rely on scientific consensus: the structured synthesis of independent expert analyses into a single, authoritative assessment. This process underpins advice on pandemics, climate change, food safety, and technology risks. But creating consensus is costly, slow, and shaped by cognitive and social biases that are difficult to detect and rarely evaluated.
+
+AI systems, particularly large language models (LLMs), are now proposed as tools for scientific analysis and synthesis. They can process data rapidly, generate analytical code, and produce narrative assessments. In principle, AI could accelerate consensus formation, reduce human biases, or even substitute for some expert input. In practice, we do not know whether AI-generated scientific assessments are accurate, well-calibrated, or useful to the people who must act on them. Most evaluations of AI in science focus on narrow technical tasks. Few test AI under the realistic conditions of scientific practice: incomplete data, time pressure, and the need for judgement under uncertainty.
+
+We propose to answer this question empirically. We use a rare experimental setting: a multi-team scientific challenge in which independent expert groups and an AI-assisted team analysed the same simulated data, with outcomes that can be verified against known ground truth. This allows us to make a controlled comparison that is normally impossible in real scientific advisory processes, where the true answer is unknown.
+
+Our project evaluates how AI changes the quality and reliability of scientific consensus across three dimensions. First, accuracy: how do AI-assisted outputs compare with human expert consensus and individual expert analyses when measured against objective truth? Second, interpretability: can decision-makers follow the reasoning and assess the evidence behind AI-generated conclusions? Third, utility: does AI-assisted analysis support better decisions in practice?
+
+We will work with public health professionals at the UK Health Security Agency (UKHSA) to assess the practical value of both human and AI-generated outputs, ensuring our findings are grounded in real decision-making contexts.
+
+The project produces actionable guidance for research organisations and funders on when AI tools can reliably support scientific consensus, what safeguards are needed, and where human expertise remains essential. All evaluation protocols, data, and analysis code will be published openly.
+
+This research addresses the "Science of AI for Science" theme. Rather than developing new AI capabilities, we study how AI adoption changes a fundamental scientific practice: the creation of expert consensus to inform decisions. Our findings will be relevant across any field where multiple experts synthesise evidence for policy.
+
+---
+
+## 2. Core team
+
+| Name | Role | Organisation |
+|------|------|-------------|
+| Katharine Sherratt | Project lead (PL) | LSHTM |
+| Sebastian Funk | Project co-lead (UK) (PcL) | LSHTM |
+| Sam Abbott | Specialist | LSHTM |
+| [Erica Thompson] | [Specialist or PcL — TBC] | [TBC] |
+
+---
+
+## 3. Vision (500 words max)
+
+Scientific consensus is one of the most consequential outputs of the research system. When governments decide how to respond to a disease outbreak, assess the risks of a new technology, or set emissions targets, they depend on structured synthesis of independent expert analyses. Bodies such as the IPCC, national scientific advisory committees, and public health agencies all rely on processes that combine multiple expert assessments into a single authoritative view.
+
+Yet this process is poorly understood as a scientific practice. Consensus formation involves cognitive and social dynamics, including anchoring, groupthink, and framing effects, that shape outputs in ways that are rarely measured. The quality of consensus is almost never evaluated against objective benchmarks, because in most real-world settings the ground truth is unknown. This makes scientific consensus a critical but under-studied part of the research system.
+
+AI is now entering this process. Large language models can analyse data, generate code, and produce narrative assessments that resemble expert outputs. Some research organisations are already exploring AI-assisted analysis in time-pressured settings. But whether AI improves, degrades, or simply changes the character of scientific consensus is an open question with significant implications for how research organisations structure their work.
+
+We address this question using a unique dataset: a multi-team modelling challenge in which independent expert groups and one AI-assisted team analysed the same problem, producing assessments that can be evaluated against known ground truth. The challenge simulated an emerging infectious disease outbreak over three rounds, a domain where scientific consensus directly informs government decisions. Because the data are simulated, we know the correct answers, something that is never available when evaluating real advisory processes.
+
+Our objectives are to:
+
+1. Systematically compare AI-assisted and human expert scientific assessments against objective ground truth, across accuracy, interpretability, and decision-relevance
+2. Identify the conditions under which AI-generated outputs agree or diverge from expert consensus, and what drives the differences
+3. Characterise the cognitive and computational biases present in each approach
+4. Produce practical, evidence-based guidance for research organisations on integrating AI into scientific consensus processes
+
+This work is timely. Research funders and governments are under pressure to respond to AI adoption in science, but lack empirical evidence on what AI actually changes about how scientific conclusions are reached. Speculation is abundant; controlled comparisons are scarce. Our contribution fills this gap with evidence grounded in a realistic scientific task, assessed by the practitioners who would use these outputs in practice.
+
+---
+
+## 4. Approach (2,500 words max)
+
+### Context and previous work
+
+Scientific consensus, the structured synthesis of independent expert assessments, is a cornerstone of evidence-informed policy. In fields from climate science to public health, groups of experts independently analyse available data and then combine their findings into a single assessment. The quality of this process matters enormously: it shapes government decisions affecting millions of people.
+
+Research on expert judgement and group decision-making has identified systematic biases in consensus processes. Anchoring effects mean that early or prominent estimates disproportionately influence group conclusions (Tversky & Kahneman, 1974). Groupthink suppresses dissent (Janis, 1982). Availability bias leads groups to overweight recent or salient evidence (Sunstein & Hastie, 2015). Structured elicitation methods (Delphi, SHELF) can mitigate some of these biases (Cooke, 1991; O'Hagan et al., 2006), but they are rarely used in time-pressured scientific advisory settings.
+
+AI introduces new possibilities and new risks. Large language models can process heterogeneous data, generate analytical code, and produce narrative summaries rapidly. Human-in-the-loop (HITL) systems, where AI performs analysis under human oversight, represent a practical middle ground between fully automated and fully expert-driven approaches (Du et al., 2024). But AI systems bring their own biases: hallucination of plausible but incorrect claims, training data biases that may not match novel situations, and automation bias where human reviewers defer excessively to AI outputs.
+
+Despite growing interest, there is almost no empirical evidence comparing AI-assisted and human expert scientific consensus under controlled conditions. Most studies of AI in science evaluate narrow technical capabilities (code generation, literature summarisation) rather than the holistic scientific practice of forming reliable conclusions under uncertainty. This is the gap our project addresses.
+
+**Our experimental setting.** We use data from the HPAI Modelling Challenge, an international exercise in which multiple independent expert teams analysed simulated outbreak data over three monthly rounds. The challenge was designed for pandemic preparedness: teams received progressively updated synthetic surveillance data describing a fictional disease outbreak and were asked to produce epidemiological assessments, forecasts, and policy recommendations.
+
+Crucially, the simulated data have known ground truth. This allows rigorous evaluation of both accuracy and calibration, something that is normally impossible in real advisory processes. Several UK-based expert teams participated using diverse analytical approaches. Separately, one team produced assessments using an LLM-driven, human-in-the-loop system following a structured analytical workflow (Abbott et al., in preparation).
+
+Our team has extensive experience in this domain. During COVID-19, we operated real-time forecasting systems used by public health agencies across Europe and the US, contributed to the UK government's scientific advisory process (SPI-M-O), and developed evaluation methods for multi-model collaborative forecasting efforts (Sherratt et al., 2023; Cramer et al., 2022).
+
+### Study design
+
+This is a retrospective comparative evaluation. The challenge rounds have been completed and all team submissions collected. The grant funds the systematic evaluation, independent assessment, and synthesis that transforms a scientific exercise into metascience evidence.
+
+The project has three work packages.
+
+**WP1: Structured consensus construction (months 1–4)**
+
+We construct narrative consensus statements from the independent UK expert teams' submissions, retrospectively but blinded to ground truth and to the AI-assisted team's outputs.
+
+The protocol adapts established structured elicitation methods for this context:
+
+1. Two independent reviewers read all UK expert team submissions for a given round
+2. Each reviewer independently drafts a structured synthesis covering: key findings, the degree of agreement across teams (full/partial/divergent), sources of disagreement (different methods, different assumptions, different data use), an overall confidence assessment, and caveats
+3. Reviewers compare drafts and reconcile through structured discussion, documenting where and why they disagree
+4. A final consensus statement is produced for each of the three rounds
+
+This process produces three human consensus statements that can be compared directly with the AI-assisted outputs and with ground truth. The process itself is documented as research data: where teams agreed, where they diverged, what information reviewers weighted most heavily, and how disagreements were resolved.
+
+**WP2: Comparative evaluation (months 3–10)**
+
+After ground truth is released, we conduct a systematic comparison across four dimensions.
+
+*Accuracy.* We compare outputs from: (a) individual expert teams, (b) the human consensus, (c) the AI-assisted system, and (d) simple statistical combinations (mean, median of teams' quantitative estimates). For quantitative predictions, we assess error magnitude, directional accuracy, and interval coverage. For qualitative assessments (e.g. characterisation of the situation, policy recommendations), we use a structured rubric scoring factual accuracy, correctness of directional conclusions, appropriateness of reasoning, and calibration of expressed confidence. The rubric is piloted on one round before full application.
+
+*Interpretability.* Independent raters assess both human consensus and AI-assisted outputs for: transparency of reasoning (can a reader trace how conclusions follow from evidence?), appropriate characterisation of uncertainty, identification of assumptions and limitations, and narrative coherence. Raters are recruited from public health intelligence professionals who routinely use scientific assessments in their work.
+
+*Decision-relevance.* Working with UKHSA colleagues, we assess whether each output would have supported appropriate decisions at each stage of the simulated scenario. This goes beyond accuracy to ask: did the analysis identify the right questions, flag the right uncertainties, and present information in a form that supports action?
+
+*Bias identification.* We conduct a structured qualitative analysis of identifiable biases in each approach. For the human consensus: anchoring, groupthink, availability bias, framing effects from the submission template. For the AI-assisted system: hallucination, training data bias, automation bias. This analysis is exploratory and descriptive, acknowledging the small sample.
+
+**WP3: Synthesis, guidance, and dissemination (months 8–14)**
+
+1. Workshop with participating expert groups to share findings, discuss implications, and co-develop guidance on structured consensus methods
+2. Practical guidance document for research organisations and public health agencies on integrating AI into scientific consensus processes: when AI can reliably supplement human judgement, what safeguards are needed, and how to assess AI reliability in specific domains
+3. Publication in a metascience or science policy venue (targeting Research Policy, Quantitative Science Studies, or similar)
+4. Participation in UKRI Metascience cohort events
+
+### Timeline and milestones
+
+| Month | Activity | Milestone |
+|-------|----------|-----------|
+| 1–2 | WP1: Consensus protocol development and piloting | Protocol finalised and pre-registered |
+| 2–4 | WP1: Consensus construction for all three rounds | Three blinded consensus statements |
+| 3–6 | WP2: Accuracy evaluation | Quantitative comparison complete |
+| 5–8 | WP2: Interpretability and decision-relevance assessment | Independent rater assessment complete |
+| 6–9 | WP2: Bias analysis | Qualitative analysis complete |
+| 8–10 | WP3: Workshop | Workshop held |
+| 10–14 | WP3: Guidance and publication | Outputs submitted |
+
+### Risks and mitigation
+
+*Fewer expert teams than expected provide consent for inclusion.* We already have confirmed participation from multiple UK groups. Even with three teams, the comparison with the AI-assisted system and ground truth is informative. We frame findings as a structured case study rather than claiming statistical generalisability.
+
+*AI-assisted outputs are trivially poor (or trivially good).* Either outcome is informative. If poor, we analyse failure modes and identify what human expertise provides that AI currently cannot. If good, we examine whether the structured workflow is responsible and whether the outputs are genuinely interpretable. The interesting metascience findings are in the patterns of agreement and disagreement, not just the overall score.
+
+*Challenge ground truth is released later than expected.* WP1 (consensus construction) proceeds independently. WP2 evaluation begins as soon as ground truth is available.
+
+### Research environment
+
+LSHTM's Centre for Mathematical Modelling of Infectious Diseases (CMMID) has direct operational links with UKHSA through the NIHR Health Protection Research Unit in Health Analytics and Modelling. This ensures findings reach practitioners. The team has established relationships with the modelling groups participating in the challenge, facilitating data access and workshop participation.
+
+### Maximising impact
+
+UKHSA is a natural end-user: they need evidence-based guidance on whether and how to adopt AI tools in their scientific advisory processes. We will engage the broader metascience community through UKRI cohort events. Our evaluation framework (rubrics, protocols, rating instruments) will be published as reusable tools for other fields studying AI in scientific practice. All data and code will be published openly under permissive licences.
+
+---
+
+## 5. Applicant and team capability to deliver (1,650 words max)
+
+### R4RI modules (1,150 words)
+
+**Contributions to the generation of new ideas, tools, methodologies, or knowledge**
+
+Katharine Sherratt (PL) is a Research Fellow at LSHTM specialising in the evaluation of collaborative scientific processes. Her research focuses on how independent expert analyses are combined into reliable assessments, and how the quality of these processes can be measured. She has published on multi-model ensemble methods and evaluation frameworks (Sherratt et al., 2023), contributed evaluation methodology to international collaborative forecasting efforts involving 30+ research groups across Europe and the US, and is developing assessment criteria for the utility of scientific modelling in policy contexts. She has direct experience of how scientific consensus is constructed in government advisory settings, having studied the UK's SPI-M-O process. She leads the UK evaluation component of the international modelling challenge that provides data for this project.
+
+Sebastian Funk (PcL) is Professor of Infectious Disease Dynamics at LSHTM and co-director of CMMID. He has developed widely-used analytical tools deployed operationally by public health agencies including UKHSA, WHO, and ECDC. He is a member of SPI-M-O, the UK government's scientific advisory committee during health emergencies, giving him direct experience of the consensus processes this project studies. He directs the NIHR Health Protection Research Unit in Health Analytics and Modelling, providing the institutional link to UKHSA that enables the decision-relevance assessment in WP2.
+
+Sam Abbott is Assistant Professor at LSHTM and has developed a systematic workflow for structured scientific analysis (Abbott et al., in preparation). He leads the AI-assisted team in the modelling challenge, making him uniquely placed to provide insight into the AI system's design choices and failure modes. He has extensive experience with open-source scientific software development and community building.
+
+[Erica Thompson — to be confirmed. Her published work on the relationship between scientific models and decision-making (Thompson, 2022) and on uncertainty communication would strengthen the interpretability and decision-relevance dimensions of the evaluation.]
+
+**The development of others and maintenance of effective working relationships**
+
+The team has a sustained collaborative relationship spanning COVID-19 response, international forecast evaluation, and UKHSA-facing projects. Sherratt supervises PhD and MSc students in evaluation methodology. Funk leads a research group of 15+ researchers with a strong track record of developing early-career scientists. Abbott leads the epinowcast community, an open international forum connecting researchers and practitioners in real-time scientific analysis, demonstrating commitment to community capacity building. [A research assistant on this project would gain experience in metascience evaluation methods, contributing to workforce development in this emerging field.]
+
+**Contributions to the wider research and innovation community**
+
+The team maintains major open-source analytical tools used by public health agencies worldwide. Sherratt contributed evaluation infrastructure to collaborative scientific efforts spanning 30+ countries. Funk co-leads international efforts on evaluation methodology. The team has collectively published 100+ peer-reviewed papers and actively contributes to methodological standards in their field.
+
+**Contributions to broader research or innovation users and audiences and towards wider societal benefit**
+
+During COVID-19, the team's analyses were used directly by UK government, WHO, ECDC, and the US CDC to inform response decisions. This operational experience motivates the current project: the team has seen first-hand how scientific consensus processes work under pressure, and where they could be improved. The open-source tools they maintain are downloaded thousands of times annually and have been adopted by agencies in over 20 countries, demonstrating sustained impact beyond academia.
+
+### Additions (500 words — optional)
+
+[Reserved for career context if needed.]
+
+---
+
+## 6. Ethics and responsible research and innovation (500 words max)
+
+This project evaluates scientific reasoning processes using data from a completed simulation exercise. No actual pathogen data, patient data, or biological samples are involved.
+
+**Human participants.** The study involves: (a) the project team constructing consensus statements from existing submissions (no participant involvement); (b) independent raters from public health assessing interpretability and decision-relevance of anonymised scientific documents (minimal risk; informed consent obtained); (c) a workshop with participating expert groups (professional reflection activity). We will obtain LSHTM ethics approval for components (b) and (c).
+
+**Data from participating teams.** Expert teams submitted analyses under the challenge's terms of participation. We will confirm data sharing agreements with all teams before including their submissions in our evaluation. Team outputs will be anonymised in publications unless teams provide explicit consent for identification.
+
+**Responsible AI evaluation.** We study AI in science rather than deploying AI for decision-making. Our evaluation is designed to report both strengths and limitations honestly. We will avoid framing that could encourage premature adoption of AI tools in high-stakes settings without appropriate safeguards. The guidance document (WP3) will explicitly address risks of over-reliance on AI-generated scientific advice.
+
+**Wider implications.** AI-generated scientific advice that appears authoritative but is poorly calibrated could mislead decision-makers, with serious consequences. Our project directly addresses this risk by providing empirical evidence on AI reliability. The guidance output is designed to support responsible adoption by research organisations.
+
+We will follow LSHTM's research governance framework and UKRI's Framework for Research Ethics throughout.
+
+---
+
+## 7. Resources and cost justification (1,000 words max)
+
+[To be completed with LSHTM research office — outline below]
+
+**Project staff:**
+
+- Katharine Sherratt: [X] months FTE as PI, leading consensus construction (WP1), evaluation design and analysis (WP2), synthesis and guidance (WP3)
+- Research assistant: [X] months FTE to support WP2 interpretability and decision-relevance assessment (recruiting and coordinating independent raters, data management, qualitative coding of bias analysis)
+
+**Travel and subsistence:**
+
+- WP3 workshop: venue, catering, and participant travel for 15–20 attendees (UK-based expert groups)
+- UKRI Metascience cohort events: attendance for PI at annual events (as required by the call)
+
+**Other costs:**
+
+- Participant compensation for independent raters in WP2 interpretability and decision-relevance assessment
+- Open access publication charges
+
+**Justification:** The core data (challenge submissions and ground truth) are already collected through existing arrangements. This grant funds the metascience evaluation: the systematic comparison, independent assessment by end-users, and synthesis into actionable guidance. Staff time is the primary cost, reflecting the intellectual and analytical work required to transform a scientific exercise into rigorous evidence about how AI changes scientific practice.
+
+**Estimated FEC:** [To be calculated — targeting within the £250,000 limit for UK-only projects]
+
+---
+
+## 8. Data management and sharing (500 words max)
+
+**Data generated:**
+
+1. Consensus statements (WP1): structured narrative documents synthesising expert analyses. No personal data. Will be published openly as a research output.
+2. Evaluation scores (WP2): quantitative accuracy metrics (numerical, no personal data) and interpretability/decision-relevance ratings from independent raters (anonymised). Will be deposited with the UK Data Service.
+3. Process documentation (WP1): records of consensus construction, including reviewer agreement and disagreement. Anonymised. Published as supplementary material.
+4. Workshop outputs (WP3): notes and co-developed guidance. Anonymised. Published openly.
+5. Evaluation protocols, rubrics, and rating instruments: published as reusable tools for other fields.
+
+**Existing data used:**
+
+- Challenge submissions: team analyses submitted under the challenge's terms of participation. We will confirm data sharing permissions with organisers and all participating teams.
+- Ground truth data: controlled by challenge organisers. We will negotiate open release post-challenge.
+- No existing UK Data Service datasets are used; the research generates new data through a novel evaluation design.
+
+**Data management:**
+
+Data will be stored on LSHTM's secure research data infrastructure during the project. Analysis code and non-sensitive data will be version-controlled on GitHub throughout. At project end, shareable data will be deposited with the UK Data Service and Zenodo under CC-BY and MIT licences.
+
+**Challenges to sharing:**
+
+Individual team submissions may contain approaches teams wish to publish independently. We will agree embargoes and anonymisation before analysis. Ground truth release is controlled by challenge organisers; we will negotiate open access post-challenge.
+
+We comply with ESRC's Research Data Policy and LSHTM's institutional data management requirements.
+
+---
+
+## 9. Trusted Research and Innovation (100 words max)
+
+This project does not involve dual-use research, materials on the UK strategic export control list, or work relevant to the 17 areas of the UK National Security and Investment Act. No export control licence is required. The research evaluates scientific reasoning processes using synthetic data. All outputs will be published openly.
+
+---
+
+## 10. International collaboration (100 words max)
+
+The modelling challenge is an international exercise, and our evaluation draws on submissions from UK-based teams participating in this broader effort. All funded project activities and personnel are UK-based. No international co-leads, subcontractors, or service providers are involved. We will engage with international challenge organisers for data access and dissemination but this does not constitute a formal collaboration requiring additional funding.
+
+---
+
+## References
+
+Abbott S et al. (in preparation). A workflow for infectious disease modelling.
+Cooke RM (1991). Experts in Uncertainty: Opinion and Subjective Probability in Science. Oxford University Press.
+Cramer EY et al. (2022). Evaluation of individual and ensemble probabilistic forecasts of COVID-19 mortality in the United States. PNAS. https://doi.org/10.1073/pnas.2113561119
+Du Y et al. (2024). Advancing real-time pandemic forecasting using large language models. arXiv.
+Funk S et al. (2020). Short-term forecasts to inform the response to the Covid-19 epidemic in the UK. medRxiv. https://doi.org/10.1101/2020.11.11.20220962
+Janis IL (1982). Groupthink: Psychological Studies of Policy Decisions and Fiascoes. Houghton Mifflin.
+O'Hagan A et al. (2006). Uncertain Judgements: Eliciting Experts' Probabilities. Wiley.
+Rao D et al. (2025). The utility of infectious disease modelling in informing decisions for outbreak response. PLOS Global Public Health. https://doi.org/10.1371/journal.pgph.0005120
+Sherratt K et al. (2023). Predictive performance of multi-model ensemble forecasts of COVID-19 across European nations. eLife. https://doi.org/10.7554/eLife.81916
+Sunstein CR, Hastie R (2015). Wiser: Getting Beyond Groupthink to Make Groups Smarter. Harvard Business Press.
+Thompson E (2022). Escape from Model Land. Basic Books.
+Tversky A, Kahneman D (1974). Judgment under Uncertainty: Heuristics and Biases. Science.
