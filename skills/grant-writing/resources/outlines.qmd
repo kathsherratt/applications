@@ -1,0 +1,104 @@
+# Idea catalogue
+
+This document sets out principles for designing a catalogue of ideas for research sub-projects.
+Each project should have a brief outline and viability check.
+It is then ready for formulating the pippin sentences (`pippin.qmd`).
+
+--------------------------------------------------------------------------------
+
+## Outline
+
+### What the sub-project will discover or establish
+
+Ideally a sub-project will discover something that can be expressed in a single sentence.
+For example, one of the sub-projects in our hypothetical psychology project might establish whether ability to solve arithmetic problems is equally related with ability to write complex sentences in boys and girls.
+
+### What activities the sub-project consists of
+
+For example, our hypothetical sub-project might involve the design of testing materials; the development of suitable testing apparatus; the selection of a suitable group of schools to be involved in the project; liaison with the schools; selection and screening of suitable children within each school; administration of the tests; processing of test results; writing of reports and papers.
+
+### What skills are needed to carry out the activities?
+
+### What resources will be used in the sub-project?
+
+#### (A) resources that are already available
+
+#### (B) new resources that must be paid for by the grant.
+
+These lists should go beyond the obvious resources of equipment and consumables and include things like your time and the time of other staff who would be involved, which should be quantified both because some funders will treat it as a cost that can be funded from the grant and because your employer may need to know what they are committing to the project.
+They should also include facilities that may be needed like laboratories.
+In our hypothetical sub-project on child development it could also include the relationships which you will have established with schools that provide you with research participants -- if you have them, otherwise you will need to budget for the work that must be done to build such relationships.
+
+--------------------------------------------------------------------------------
+
+## Viability
+
+### Resources
+
+#### Are all the resources being requested allowable under the chosen funding scheme?
+
+If not, you have three choices.
+Find a different funder; find a different source of funds to pay for the ineligible resources; or change the sub-project for one that doesn't need them.
+Don't make the mistake of assuming that an especially persuasive application will persuade the funder to bend the rules.
+
+#### Will the resources to be provided by the institution definitely be available to the project?
+
+Now is the time to check with your line manager or Head of Department.
+Don't forget to include your time if you have a salaried position.
+Don't forget the research and office space and equipment that will be needed for the research and the researchers.
+
+#### Is the grant requested the right size?
+
+This is not just a matter of whether it is within the stated limits of the funding scheme for which you are applying.
+It should be within the typical range both for the scheme and for an applicant of your standing.
+Your institution's research office, or the funding body will usually be happy to give you good advice on this.
+If your grant is the wrong size, do not make the mistake of trying to fix it by changing the resource list: change the whole project by scaling up or scaling down sub-projects until you have a project that is the right size.
+
+#### Is the complete set of resources adequate to carry out all the activities of the project?
+
+It is very common for grants to be rejected outright because of a mismatch.
+Asking for too little is definitely worse than asking for too much but neither is good.
+
+### Activities
+
+#### Will the specified activities lead to the specified outcomes?
+
+This is the heart and soul of the research proposal.
+You sell the project on the basis of the outcomes it will produce (see below).
+You will have to write a description of the project that will convince the reader that what you plan to do will do will produce the outcomes you claim.
+You will only be able to convince them if your description is comprehensive.
+
+#### Can all the activities be done within the specified times?
+
+It is a common and fatal mistake to promise far too much and to be vague about how it will get done.
+It is important to be realistic about what can be done by ordinary mortals in modest time-frames.
+And remember it is important to adjust the project rather than to make unrealistic promises about how long it will take.
+
+### Skills
+
+#### Does the project team have all the skills?
+
+The test that a grants' committee will apply is whether the research team has peer-reviewed publications that demonstrate the use of the skills.
+If not, then you need to enhance your team or reduce your project.
+If you can't do that, write papers, not a grant.
+Are the skills sufficient to carry out the activities?
+
+#### Do the skills justify the staff to be paid for by the grant?
+
+If you want to hire a post-doc to do a project, it will need to be clear that advanced research skills are part of the project.
+
+### Discoveries or Outcomes
+
+#### Do we need to know that?
+
+Are the research outcomes important enough to deserve funding?
+Funding agencies all have their own statements about their criteria for evaluating research outcomes.
+Typically they are interested in discoveries that advance understanding in an important subject or field of study, or that will improve health or economic or social well-being.
+Although you don't need chapter and verse at this stage you do need to be reasonably certain that your research will lead to new knowledge or understanding that will have an impact on your field or on society, or on both.
+
+It is important that none of your sub-projects could possibly produce results that would render the other sub-projects pointless.
+For example a project that starts by isolating the bacterium responsible for a disease and then doing lots of experiments to understand the physiology of the bacterium and how the disease can be cured or prevented will fail at the first step if the bacterium cannot be isolated.
+Many projects fail to get funded because they appear to have this kind of dependency between the early and late phases.
+
+Do not claim that your research will show everybody else is wrong, even if you think it will.
+It is better to put a positive spin on the current state of knowledge and explain how your work will advance it.

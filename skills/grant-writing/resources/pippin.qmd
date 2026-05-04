@@ -1,0 +1,165 @@
+PIPPIN structure
+
+### Structure
+
+- Promise
+- Importance
+- Problem
+- Project
+- Implementation
+- Next
+
+- Intro/vision 20%
+- Background 30%
+- Project description 50%
+  - Sub projects
+  - Impact
+
+### Style advice
+
+- Throw away all synonyms; use exactly the same terms throughout even when technical; add a section on terminology instead.
+- Make sentences as short as possible.
+- Split sentences whenever possible and delete adverbs, most adjectives.
+- Use simiar structures for sentences with similar function (e.g. "we need to know X so B... We need to know Y so A".)
+- Connect sentences and sections by repeating words and phrases.
+- Use a 'tag phrase' to connect a problem to the research that solves it.
+- Within text, make references to other parts of the work by its content not by section number.
+- Don't use abbreviations not in widespread use.
+
+### Key Sentences
+
+Sentence 1
+
+- Big picture goal - the domain space within which the vision fits - the 'eternal question'
+  - 'the project aims to'
+  - Expert advice without evidence / during emergencies
+- Research that comprises the project
+  - 'by analysing'
+- A single piece of evidence to believe in the applicant
+  - 'using our method'
+
+Sentence 2
+
+- Importance
+
+Sentences 3-5: 3 problems; each sentence:
+
+- State the problem - 'we need to know {research outcome}'
+- what makes important - 'so that we can'
+
+Sentence 6: Project description
+
+- 'the project will... in context/sample...'
+
+Sentence 7-9: implementation - start here
+
+- tag phrase
+
+Sentence 10: what happens after project finishes
+
+- relevant to what makes project important
+- 'we will develop... the improve...'
+
+--------------------------------------------------------------------------------
+
+The essential message of a grant application's case for support is carried in ten key sentences, which make the case in headlines.
+The rest of the document fleshes out that case, provides evidence and makes it believable.
+But the key sentences set out what has to be believed.
+They say what the research project will achieve, why it is important, how it will achieve its goal and what you will do with the results.
+That is the sense in which they carry the essential message.
+
+So what are the 10 key sentences?
+Sentence 1 is very important.
+Its function is to make the reader want to read on by giving them a sense of what your research project will achieve.
+A good way to do this is to state the overall outcome of the project and to specify enough detail about the project to make it seem both feasible and distinctive.
+For example, the sentence "This project will develop a new potential treatment for stroke based on a family of synthetic metabolic inhibitors that our group has discovered, tested and synthesised" does all this.
+Like many introductory sentences, it is quite long.
+The length is due to extra information that makes it clear both what the approach is and that the project is building on previous work by the applicants.
+The project would have seemed less feasible and less distinctive if the sentence had stopped at the word "stroke".
+
+Sentence 2 should give evidence that the problem to be solved is important.
+A good sentence 2 (assuming it's true) would be "There are 152000 strokes per year and over 600,000 disabled stroke survivors in the UK: a suitable metabolic inhibitor could reduce the disability caused by stroke."
+It is a common mistake to say something like this in the first sentence but it does not engage the reader so effectively as a promise that the project will bring us closer to solving the problem.
+
+Sentences 3-5 state that we need the outcomes of the research project.
+In order to make it easy to explain your project it is best to break it into 3 sub-projects, each of which will have a clear outcome.
+Before you describe the project, sentences 3-5 sell the project to the reader by stating that each of the outcomes is important.
+Each of the sentences can be a simple statement that "We need to know" whatever the sub-project will discover.
+
+Sentence 6 introduces the research project.
+It is an introductory sentence and it can help to add some complexity to make the project seem more feasible and more distinctive.
+For example, the hypothetical stroke project would be helped by some reference to the achievements of the research team or to the distinctive facilities available.
+
+Sentences 7-9 describe each of the sub-projects.
+Each sentence says what the sub-project consists of and what its outcome will be.
+It is crucial that the outcomes match exactly the outcomes sentences 3-5 said were important.
+
+Sentence 10 says something about what will be done with the outcomes to maximise the benefit that will accrue from the project.
+
+Where do the key sentences appear?
+Each of the key sentences should be used three times.
+First they appear consecutively in the introduction of the case for support.
+The introduction may also include some linking statements but no other substantive messages.
+
+The sentences appear again in the main body of the case for support.
+This time each sentence introduces a significant section of text that fleshes out and justifies its message.
+
+Third, the summary of the project should be virtually an exact copy of the introduction to the case for support.
+
+How do you write the key sentences quickly?
+As I will explain below, it should be possible to produce first drafts of the key sentences in less than an hour.
+I recommend that you use the draft key sentences as a framework for writing the two main sections of the case for support, the background and the description of the research project.
+
+The first sentences to write are sentences 7-9.
+Each one states what research you will do in one of your sub-projects and what the outcome of that research will be.
+Usually the outcome will be that you will know something or understand something that currently is not known or understood.
+For example, if you were carrying out a project on the importance of writing in the practice of social work, sentence 7 might be:-
+
+We will analyse and quantify texts and explore how writing is being managed alongside other commitments in order to discover the institutional writing demands of contemporary social work.
+
+If you have worked out what your project will consist of and why it is worth doing then it should be really easy to write sentences 7-9.
+And if you haven't, you shouldn't be writing, you should be designing your project.
+
+As soon as you have written sentences 7-9 you need to write sentences 3-5.
+Each of these sentences has to state the reason that the outcome of one of your sub-projects is important.
+It should use exactly the same wording to describe that outcome as its corresponding sentence 7-9.
+So the sentence 3 corresponding to the sentence 7 above could say something like:-
+
+We need to know the institutional writing demands of contemporary social work so that we can identify the writing skills that social workers need.
+
+Notice that the description of what the sub-project will discover appears in exactly the same words in both sentences.
+
+Sentence 6 should also be fairly easy.
+It is a descriptive sentence that summarises the main features of the research project.
+These features are itemised in the first clauses of each of the sentences 7-9.
+You simply need an overarching summary.
+It should only take you a couple of minutes.
+
+If you haven't thought hard about dissemination it will be impossible to draft the definitive version of sentence 10 at this stage.
+However, you should force yourself to write something quickly now.
+What you write may be rather unconvincing at this stage, but the effort of writing it will be a stimulus for you to think about that phase of the project as you flesh out the case for support.
+Don't spend more than 5 minutes on it at this stage.
+
+Now it is time for sentence 1.
+This is the hardest sentence to write and it's nearly impossible if you try to write it too soon.
+It should be pretty easy now because you have written sentences 3-10.
+The ideal form of sentence 1 is that it states a big question to which all of your sub-projects contribute.
+It then adds some detail about how you will do the project.
+This detail should be drawn from sentence 6.
+With the preparation you have done, sentence 1 should take no more than 10 minutes.
+
+Don't worry that your sub-projects don't answer the big question completely.
+They never do.
+The knack is to find a big question that fits loosely, but not too loosely, around your project.
+It has to be clear that your project will contribute to answering the big question you have chosen.
+It is accepted that there is a trade-off between how completely you answer the question and how big it is -- everybody knows that it took more than one research project grant to find the Higgs particle.
+You cope with the fact that your project will not answer your big question completely by choosing your words carefully.
+Notice that, in my sentence 1, I have been careful to use the term "potential treatment".
+It would be implausible to claim that the project would develop an actual treatment.
+
+Once you have a draft of sentence 1, sentence 2 should be very quick and easy to draft.
+All you need to do is to give a reason that your contribution to answering the big question is important.
+This reason should be a fact about the world (the If drafting sentence 2 takes you more than a minute then you need to redraft sentence 1.
+Even with a redraft, you should have your framework well within the hour.
+If it takes you more than two hours, then you are not ready to write the grant.
+Find out how to get ready by reading this post.

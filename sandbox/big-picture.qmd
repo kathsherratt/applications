@@ -35,7 +35,7 @@ plot(qt, ql)
 lines(qtvalues, predictedql, col = "darkgreen", lwd = 3)
 ```
 
-role of modelling in decision making under pressure: high uncertainty, time-critical decision-making
+role of quantifying expert advice under pressure: high uncertainty, time-critical decision-making
 - time constrained
 - limited data
 - models no substitute for data; suggest what data to collect

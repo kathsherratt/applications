@@ -1,0 +1,67 @@
+---
+title: "Fit for purpose -Fellowship first sketch"
+format: html
+---
+
+## Is UK epidemic intelligence fit-for-purpose? Evaluating emergency response and routine capacity
+
+### Aim
+
+To evaluate the landscape of UK epidemic intelligence from emergency response to routine surveillance in terms of quality, trust, and value, and to better integrate scientific capacity with routine demand
+
+### Objectives
+
+1. Quality 1.1.
+   Response/SPI-M: Evaluate the output of SPI-M work produced during COVID-19, assessing the calibration of consensus statements with retrospective best-estimates and individual models where available; evaluate critical assumptions against best available data at the time and subsequently (e.g IFR); compare the relative quality of modelling work as the data landscape changed to identify key influences on quality over time, i.e. do we need more models or more data 1.2.
+   Routine: Map expertise among the UK modelling research community; how has modelling improved since COVID-19?
+   resulting in a well-connected network able to support hotspots, identify gaps, and allocate resources to enable equitable training and development
+
+2. Value 2.1.
+   Response/SPI-M: Evaluate the process of SPI-M against its intended purpose.
+   Evaluate as a form of both peer review, and expert elicitation for evidence synthesis; assess the relative value of information from SPI-M, comparing to analytical capacity within UKHSA 2.2.
+   Routine: Assess tasks, priorities and preferences for outbreak analytics throughout the outbreak lifecycle; identifying preferences for the number and type of modelling work using a "willing-to-pay [for an additional model]", a discrete choice experiment framework, to quantify Value of Information; identifying opportunities for workforce skills development and potential integration with the research community
+
+3. Trust 3.1.
+   Response/SPI-M: what is SPI-M responsible for, and to whom is SPI-M accountable?
+   How does SPI-M experience diffusion of responsibility (addressing the Inquiry recommendation to consider groupthink)?
+   Starting with the consensus statements as examples of group decision-making.
+   Using the bibliometric techniques from 1.1 to assess survivor bias after waves of pandemic response, find the "missing" voices among UK responders and document lived experience to improve the quality of the living record.
+   Interviewing and documenting ethical issues encountered among modellers; audit trustworthiness among central spi-m modelling work (transparency, review, public involvement) 3.2.
+   Routine: stakeholder mapping for UK outbreak analytics, starting with public health intelligence functions in settings from primary care to national policy, working towards an appropriate allocation of responsibility for outbreak tasks, tactics, and strategy (2.2)
+
+### Approach
+
+Response: Recruit a lived experience advisory panel from the modelling community, able to refine the research questions, suggest key concerns or opportunties in reflecting on personal experience Routine: Enable co-production to embed sustainable change in the public health intelligence ecosystem, recruiting an advisory group of public health intelligence workers across career stages to understand user needs
+
+### Proposed work
+
+1. Evaluating quality
+
+- observed quantities: accuracy of case, hospitalisation, and death projections using proper scoring rules; against decision-relevant thresholds; of consensus vs individual models (anonymised)
+- latent quantities:
+  - Gather consensus R and growth rate: evaluate accuracy, direction, consistency over time
+  - Compare process for estimating R with that of (ONS) excess deaths estimates - two unobserved & decision-critical quantities
+
+2. Evaluating value
+
+- Document purpose of SPI-M over time i.e. why SPI-M was set up and formalised
+- SPI-M producing consensus: the role model here is evidence synthesis via expert elicitation.
+  This means evaluating group dynamics: directly match observed practice against best practice expert elicitation protocols to assess which aspects may be vulnerable or missing
+- SPI-M producing challenge: the role model here is peer review.
+  Identify areas of disagreement, how that changed modellers' work, comparative accuracy of estimates from SPI-M versus UKHSA during Pegasus
+- What allocation of responsibility for routine tasks versus strategic advice, approporiate accountability of SPI-M contributors?
+- What are decison-makers willing-to-pay for an additional modeller in the room, an additional model, at what quality / known properties?
+  What is the role of formal contracts and financial incentivisation?
+
+3. Evaluating trust
+
+- Consider existing standards for modelling in government and whether these should apply to modelling produced by SPI-M e.g. 'business critical models' in civil service, Office for Statistics Regulation code of practice for modelling
+- Transparency?
+- Consider a suite of options for meeting the purpose of SPI-M based on varying capacity/need in academia/government - and incentives for doing so.
+
+### Objectives
+
+1. Map the landscape of UK outbreak analytics from the bottom up: where is epidemic intelligence being used?
+   Survey hospitals, local authorities, UKHSA, ... to map and prioritise across the tasks of routine outbreak analysis
+2. Embed a network of UK modelling expertise: trace the impact of COVID-19
+3. Pilot an applied research collaboration for outbreak analytics, from the HPRU working with local authorities to improve routine outbreak response and create opportunities for academic modellers to understand real-time response work
