@@ -1,0 +1,64 @@
+---
+title: "NIHR Postdoctoral Fellowship — Specific Aims"
+date: 2026-05-13
+---
+
+## I. The Problem
+
+During COVID-19, the UK's Scientific Advisory Group for Emergencies relied principally on SPI-M --- a group of epidemic modellers --- to produce intelligence across the full risk, from estimating transmission to characterising population vulnerability.
+This was a failure of infrastructure: no mechanism existed to identify which form of expertise was needed when, to triangulate across different evidence sources along the infection pathway, or to allocate responsibility for the advice that resulted.
+
+We know a great deal about what SPI-M produced.
+Its consensus estimates of the reproduction number (R) and growth rate (r) were central to UK policy decisions throughout the pandemic, and its secretariat documented those estimates in published statements.
+We now know the infection pathway that COVID-19 traced through the UK population, from community transmission through hospitalisation to excess mortality, and we have data from multiple surveillance systems that tracked it in real time: electronic health records, contact surveys, wastewater monitoring, the ONS Community Infection Survey, case notifications, and death registrations.
+We also know, from the UK COVID-19 Inquiry and from published reflections within the modelling community, that the advisory infrastructure was improvised under pressure, that responsibility was unclear, and that the transition from emergency to routine operations has not been systematically managed.
+
+What we do not know is how well the SPI-M consensus process actually performed when evaluated rigorously --- whether its estimates were calibrated, whether its uncertainty language matched its quantitative outputs, and whether the assumptions underpinning it were adequately documented.
+We do not know how the relative value of information from the sources of evidence that experts relied on, compared to the interpretation and synthesis of that evidence via consensus meetings.
+And we do not know how to structure expert advisory infrastructure so that the right expertise is matched a future crisis, with clear lines of responsibility.
+
+We need to evaluate the SPI-M consensus process against explicit criteria, triangulate the available surveillance evidence across the full COVID-19 infection pathway, and use both to design governance standards for sustainable expert advisory infrastructure.
+
+--------------------------------------------------------------------------------
+
+## II. The Solution
+
+The objective of this fellowship is to evaluate what UK epidemic intelligence produced during COVID-19, understand what it missed, and build the infrastructure to do better.
+
+The central premise is that epidemic intelligence fails not when individual models are wrong but when the system for producing, combining, and taking responsibility for evidence is poorly matched to the risk it is meant to characterise.
+SPI-M's consensus model was designed to aggregate expert judgement about transmission; it was not designed to represent vulnerability, integrate heterogeneous surveillance streams, or allocate accountability for the numbers it produced.
+My prior work evaluating multi-model forecast ensembles --- demonstrating that combination methods and model diversity drive predictive accuracy more than individual model quality --- provides the methodological foundation for evaluating a consensus process and designing more effective replacements.
+My direct experience within SPI-MO and the European COVID-19 Forecast and Scenario Hubs gives me both the data access and the institutional relationships this work requires.
+
+LSHTM's Centre for Mathematical Modelling of Infectious Diseases, with its established links to UKHSA, NHS England, and the SPI-M secretariat, provides the environment, and the planned mentorship team spans modelling evaluation, philosophy of science, health services research, and public health practice.
+
+--------------------------------------------------------------------------------
+
+## III. Aims
+
+### Aim 1 — Identifying risk: evaluate the SPI-M consensus process for estimating transmission
+
+**Hypothesis:** The SPI-M consensus process produced systematically overconfident estimates of R/r, with uncertainty language in consensus statements not matching the calibration of underlying model submissions.
+
+**Approach:** Using the full archive of SPI-M model submissions and consensus statements from COVID-19, I will evaluate calibration and combination performance of R/r estimates (qualification of assumptions, verification of elicitation process, validation against best available estimates using scoring rules, sensitivity, specificity, and PPV).
+I will mine the text of consensus statements for probabilistic language and assess whether it is consistent with the quantitative outputs and with the available evidence at the time of writing.
+
+**Expected outcome:** A characterisation of where the SPI-M consensus process performed well and where it failed --- by variant phase, by number of contributing models, and by the type of evidence cited --- providing the first systematic external evaluation of a national epidemic advisory consensus.
+
+### Aim 2 — Evaluating impact: triangulate surveillance evidence across the infection pathway
+
+**Hypothesis:** Triangulating evidence from multiple surveillance streams reveals epidemic impact and vulnerability that single-stream analysis systematically underestimates, with the pattern of underestimation varying by population group and outbreak phase.
+
+**Approach:** I will integrate real-time data from across the UK COVID-19 infection pathway (EHR, contact surveys, wastewater, ONS Community Infection Survey, case notifications, hospitalisations, death registrations, excess mortality) and develop a framework for assessing the relative value of each stream for estimating hazard versus vulnerability under varying epidemiological conditions.
+Bias from each source will be characterised and varied to demonstrate how triangulation changes impact estimates.
+
+**Expected outcome:** A triangulation framework applicable to future outbreaks, with documented evidence of what surveillance evidence was available, what each stream captured and missed, and what a combined analysis would have changed in the COVID-19 response.
+
+### Aim 3 — Taking responsibility: design infrastructure for expert advisory governance
+
+**Hypothesis:** The improvised structure of SPI-M during COVID-19 created gaps in accountability that can be addressed by explicit governance standards specifying which expertise is required at each risk-pathway stage, and how responsibility for consensus advice is allocated.
+
+**Approach:** Drawing on findings from Aims 1 and 2, I will document the current structure of UK epidemic advisory infrastructure (SPI-M, UKHSA Pegasus, ONS, Office for Statistics Regulation), identify the gaps and duplications in expertise coverage, and develop governance standards specifying how responsibility should be structured for demand-driven versus supply-driven epidemic intelligence.
+This will include co-production with SPI-M secretariat, UKHSA, and NHS trust public health practitioners.
+
+**Expected outcome:** Governance protocols for UK epidemic advisory infrastructure --- covering expert recruitment, task allocation, quality assurance, and transition from emergency to routine operations --- ready for adoption ahead of the next major outbreak.

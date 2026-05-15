@@ -1,0 +1,58 @@
+---
+title: "NIHR Postdoctoral Fellowship — Title and Statement of Case"
+date: 2026-05-13
+---
+
+# Title
+
+**Matching expertise to asymmetric risk: evaluating and building UK epidemic intelligence infrastructure**
+
+--------------------------------------------------------------------------------
+
+# Statement of Case (10 sentences)
+
+**S1 --- Opening** The UK's COVID-19 response relied on a single mode of modelling expertise throughout a crisis whose risk pathway --- from transmission to excess mortality --- demanded different forms of evidence at each stage; this fellowship evaluates that mismatch and builds reusable infrastructure to address it.
+
+**S2 --- Importance** Epidemic response is a standing NHS and public health challenge; without infrastructure to match expertise to changing risk, each new outbreak will repeat the improvisation of COVID-19, wasting resources and delaying effective advice to decision-makers.
+
+**S3 --- Aim 1** We need to know how well the SPI-M consensus process produced reliable estimates of transmission risk (R and growth rate) during COVID-19.
+
+**S4 --- Aim 2** We need to know how triangulating surveillance evidence across the full infection pathway changes our understanding of epidemic impact and vulnerability.
+
+**S5 --- Aim 3** We need to know how responsibility for expert advice should be structured so the right expertise is available, accountable, and matched to each stage of a crisis.
+
+**S6 --- Project overview** The proposed project will evaluate the SPI-M consensus process, triangulate surveillance evidence from EHR to excess deaths, and redesign governance for expert advisory infrastructure, in order to create practical standards for matching expertise to asymmetric risk in future UK crises.
+
+**S7 --- Sub-project 1 (mirrors S3)** We will evaluate the SPI-M consensus process in order to discover how well it produced reliable estimates of transmission risk (R and growth rate) during COVID-19.
+
+**S8 --- Sub-project 2 (mirrors S4)** We will triangulate surveillance evidence across the full infection pathway in order to discover how this changes our understanding of epidemic impact and vulnerability.
+
+**S9 --- Sub-project 3 (mirrors S5)** We will redesign governance for expert advisory infrastructure in order to discover how responsibility for expert advice should be structured so the right expertise is available, accountable, and matched to each stage of a crisis.
+
+**S10 --- Dissemination** Results will be delivered as evaluation standards for R/r consensus, a triangulation framework for surveillance data, and governance protocols for SPI-M and UKHSA --- tools directly usable by future UK advisory committees, NHS trusts, and public health practitioners preparing for the next outbreak.
+
+--------------------------------------------------------------------------------
+
+**WP1 --- Identifying risk: evaluating the SPI-M consensus model**
+
+- Qualification: assumptions, model diversity, documentation of expertise sources - Verification: expert elicitation protocols, use of uncertainty language - Validation: calibration of R/r combination (sensitivity, specificity, PPV); language of consensus statements vs PHE terminology
+
+**WP2 --- Evaluating impact: triangulating expertise and evidence**
+
+- Qualification: documenting availability, representation across infection pathway (EHR → CoMix → wastewater → ONS community infection survey → cases → hospitalisations → deaths → excess deaths)
+- Verification: varying bias from each source to demonstrate relative value under different hazard types
+- Validation: comparing with excess deaths, UK Resilience Academy vulnerability data
+
+**WP3 --- Taking responsibility: infrastructure for expert advice**
+
+- Qualifications: Post-COVID infrastructure for SPI-M network across UK
+- Verification: translating expertise for decisions - role of secretariat, informed consent
+- Accountability: where does SPI-M sit relative to UKHSA, ONS, Office for Statistics Regulation
+
+## Risk framing
+
+Asymmetric risk = the interaction of hazard and vulnerability varies along the infection pathway.
+SPI-M was implicitly used to assess both, but was designed and recruited primarily to estimate transmission (hazard).
+The gap between what it was asked to do and what it was equipped to do is the research problem.
+
+The three work packages address this sequentially: WP1 evaluates what SPI-M actually produced for transmission risk; WP2 asks what would have been needed to capture vulnerability; WP3 asks how future infrastructure should be organised to hold both.

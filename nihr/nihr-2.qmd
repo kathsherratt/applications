@@ -1,0 +1,82 @@
+MARMITE: Modelling to assess risk using modular infrastructure for triangulating expertise
+
+## Background
+
+- What is the problem being addressed and why is it important?
+  in a crisis we rely on experts; relevant expertise is not always clear when risk is asymmetric
+
+in covid we relied on a single type of expertise, but we needed to plug and play different sources of expertise along the pathway from producing evidence to informing response.
+
+relative value is difficult to untangle because of changes over time
+
+focus on covid because new outbreaks unlikely to have same duration + breadth
+
+- outbreaks of infectious disease are a risk
+- risk is the interaction of hazard with vulnerability
+- SPI-MO was implicitly used for risk
+
+## Aims
+
+## Proposed work
+
+1. Identifying risk: evaluating the SPI-M consensus model to estimate R/r
+
+- Qualification
+  - Assumptions: documenting sources of expertise into SPI-MO; shared/contradictory R/r assumptions
+- Verification
+  - Parameterising: Expert elicitation protocols; calibration of individual model estimates
+- Validation
+  - Evaluating: Calibration of combination against best estimates (scoring, sensitivity, specificity, PPV); use of language of uncertainty vs PHE terminology;
+  - If each model used the perfect data, how well calibrated would the consensus model be?
+    Brockhaus
+
+2. Evaluating impact: triangulating evidence from real-time surveillance data
+
+- trust: documenting availability, representation, biases of real-time data across the infection pathway
+  - vulnerability -> ehr -> CoMix -> wastewater -> ONS community infection survey -> case -> hospitalisation -> deaths -> excess deaths
+- value: triangulating with excess deaths, UK resilience academy vulnerability data
+- quality: varying bias from each source to demonstrate relative value under different hazards (pathogens) integrating novel data streams about vulnerability: UKRA, excess deaths
+
+3. Taking responsibility: infrastructure for expert advice
+
+- Post-covid infrastructure for SPI-MO; the network of modelling expertise across the UK
+- Translating expertise for decisions: role of the secretariat; informed consent
+- Taking responsibility: where does SPI-M sit vs. ukhsa (pegasus), ONS, Office for Stat Reg, evaluation standards/professionalisation
+
+--------------------------------------------------------------------------------
+
+1. Inputs: "Models are no substitute for data": Data availability and quality
+
+- Describe the surveillance data available over time
+- Compare how each data stream captured heterogeneous infection
+- Evaluate the cost-effectiveness of different data streams for showing heterogeneous patterns
+
+2. Process: SPI-M and expertise
+
+- Describe SPI-M contributions from modellers and models
+- Compare the impact of response on available expertise now
+- Evaluate the accuracy of the consensus model
+
+3. Outputs: "Evidence is not advice"
+
+- Describe infrastructure for translating SPI-M via secretariat
+- Compare with previous outbreaks
+- Evaluate
+
+Evaluating the use of modelling for governing outbreak risks: proportionate strategies from routine to response
+
+Ortwin Renn describes a so called risk management 'ladder', by which as the extent of uncertainty, ambiguity and conflicting viewpoints increases, so risk management strategies move from being routine (undertaken by experts, using well established evidence) through to being highly participative (undertaken by all stakeholders, working their way through the uncertainties and their conflicting standpoints)
+
+1. Risk identification
+
+- Value of different data sources
+- Proportionate response
+
+2. Risk assessment
+
+- Value of SPI-MO consensus model
+
+3. Risk management
+
+- Value of infrastructure
+- Proportionate response:

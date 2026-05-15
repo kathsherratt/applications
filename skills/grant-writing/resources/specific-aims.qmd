@@ -1,0 +1,45 @@
+Specific Aims Template
+
+The Specific Aims is the MOST important section of your grant.
+It serves as a "first impression" for the reviewer that will shade the entire review and score.
+If the reviewer is convinced of the importance, logic/premise and approach of your project, excitement to review it favorably is generated.\
+Alternatively, if the reviewer reacts with skepticism or confusion, the rest of the review will be negatively biased.
+
+Following this outline will maximize the organization and content of your four-paragraph Specific Aims section and can identify any "unknown-unknowns" (unk-unks) that must be addressed before moving on with the application.
+
+I.  The "Problem" Paragraph\
+
+1. Hook: What is the problem being addressed and why is it important?
+   (1-2 sentences)
+2. The Known: What do we currently know about the hook problem?
+   (2-5 sentences)
+3. The Unknown (Gap): What do we still need to learn or accomplish to (further) resolve the hook problem?
+   (1-2 sentences)
+4. What's Needed: What would have to be done to bridge the knowledge gap?
+   (1-2 sentences)
+
+II. The "Solution" Paragraph
+
+1. Objective: What are you are seeking to accomplish to bridge the gap (overarching goal/objective)?
+   (1 sentence)
+2. Rationale: What is the key assumption(s) (overarching hypothesis) and how did you arrive at it (premise) that recommends this objective as a means of bridging the gap?
+   (2-4 sentences)
+3. Qualifications: What makes you as an investigator and this environment uniquely suited to obtain this objective?
+   (1-2 sentences)
+
+III. The "Aims" (mini-)Paragraph(s) (one for each aim)
+
+1. Title: What will this part of your project address?
+   (one sentence)
+2. Hypothesis: How do you think things actually operate with reference to this Aim?
+   (1 sentence)\
+3. Approach: How will you test this hypothesis (method)?
+   (1-2 sentences)
+4. Expected Outcome: What result from this test would serve to confirm your hypothesis ("prediction")?
+   (1 sentence)
+
+IV. The "Impact" Paragraph
+
+1. Impact: Assuming your research aims are met, what important things will become possible that are not currently; i.e., how will it impact the field with specific reference to the hook problem.\
+   For Ks, how will the work impact you as a candidate?
+   (1-3 sentences)

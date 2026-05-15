@@ -1,190 +1,83 @@
-# Translating lessons from response to applied routine epidemic intelligence
+# Re-calibrating consensus in emergencies: strengthening real-time scientific advice from infectious disease modelling
 
-This document sets out the simple strategy for what I would like to do and how I would like to develop my career with support from an NIHR fellowship.
+reconsider: recalibrating consensus science for infectious disease emergency response
+
+resample: risk evaluation in scientific advice from modelling the pandemic:
+
+1. This project will improve the quality of real-time scientific advice during infectious disease emergencies by evaluating and reforming the consensus process used by the UK's expert modelling advisory group (SPI-M), using a novel combination of model calibration, value of information, and institutional analysis that builds on unique access to SPI-M records and participant networks.
+
+2. During highly uncertain emergencies, the credibility, robustness, and transparency of scientific advice is essential to justifying necessary preventative action to protect public health, but this is not rigorously evaluated.
+
+3. We need to know how accurately and consistently SPI-M consensus statements communicated key epidemiological quantities during COVID-19.
+
+4. We need to establish the relative value of different methods of real-time evidence synthesis to support outbreak decision-making.
+
+5. We need to develop improved institutional frameworks governing the roles, formation, and continuity of scientific expertise available for outbreak response.
+
+6. The proposed project will analyse historical SPI-M estimates and experiences, conduct and evaluate expert elicitation, and document institutional processes and structures in order to produce actionable evidence for reforming UK emergency outbreak advisory processes.
+
+7. I will conduct retrospective calibration analysis and quantitative re-estimation of SPI-M consensus statements in order to discover the accuracy and consistency of producing key epidemiological quantities during COVID-19.
+
+8. I will compare how these quantities were estimated using both the SPI-M process of expert elicitation, and the real-time predictive value of novel surveillance data streams, in order to establish the relative value of different methods of evidence synthesis to support outbreak decision-making.
+
+9. I will analyse career trajectories, institutional roles, and advisory group dynamics in order to develop improved institutional frameworks governing the formation and responsibilities of scientific advisory groups in outbreak response.
+
+10. This programme of work is co-developed with the lived experience of the modelling peer community, and results will be implemented through publication and direct engagement with the UKHSA and SAGE secretariat, for immediate, practical use in UK emergency response.
 
 --------------------------------------------------------------------------------
 
-## Review questions
+## Background
 
-1. Internal coherence
+Public health intelligence deals with identifying and evaluating risk.
+This involves identifying the health hazard (e.g. infectious transmission) and evaluating its impact (population exposure and susceptibility to harm).
+Novel outbreaks present a rapidly evolving risk with extreme uncertainty and unusual sources of evidence.
+Routine public health intelligence is ill equipped to handle this.
+In this case, scientific advisors are called upon to provide additional support.
+These provide specialised expertise and may also contribute bespoke research.
+There is also strong evidence that experts working in small groups create more accurate, creative outcomes.
+in national emergencies, the UK calls on SAGE and its subgroups of which one is SPI-MO.
+f Modelling work is particularly useful as a system for integrating across a patchwork of highly uncertain sources.
+This uncertainty also means that modelling work is highly flexible to individual analytical choices, and open to interpretation.
+As a result, there is no single "best" source of modelling evidence from which to draw policy advice.
+The SPI-M-O group is specifically convened to provide this diversity, from which to create a consensus of evidence for policy decisions.
+During COVID-19, the UK's Scientific Advisory Group for Emergencies relied on "consensus statements" produced by the epidemiological modelling sub-group, SPI-MO.
 
-- Do the 3 research aims and work packages make sense individually and as a coherent whole?
-- What is a succinct single-sentence aim for each of the 3 work packages word the 3 headline aims to match the intent/scope of the proposed work?
+#### The consensus model
 
-2. Consistency with my interests and values
+However, this can also be compromised by (1) recruitment, needing to balance both relevance and diversity of expertise; and (2) group facilitation, to avoid biases in group decision-making (which could be individual, e.g. anchoring, ease of recall; or social, e.g. groupthink, "halo" effects).
+The real-time pressure of emergencies may add to these effects in either direction, while also making it very difficult to capture, report, and consider the impact of such dynamics.
+Nonetheless, addressing groupthink in advisory processes was a specific recommendation of the UK COVID-19 Inquiry.
 
-- Do the 3 work packages appropriately reflect my research interests and current plans, documented elsewhere (applications, kath-a-log)?
-- As an overall career interest, I would ideally like to make an explicit link to risk in my work (considering risk = hazard x exposure x vulnerability); is there a coherent, consistent way to approach this in part or all of the suggested work, or would it be forcing an unnecessary structure?
+#### The need for evaluation
 
-3. Feasibility and evaluation of proposed work:
+There has been little work addressing this within scientific advisory groups in outbreak modelling (if not in other fields).
 
-- This proposal moves between three different epidemiological quantities: R/growth rate (aim 1), excess deaths (aim 2), case/hospitalisation forecasting (aim 3); is this sensible, and what are the key challenges and opportunities from this?
-- Aim 2 is the newest in my thinking: does it make sense as a whole; does the demand/supply regime comparison hold up; what can be improved?
-- Aim 3 is the broadest; what is the simplest and most consistent way to tighten this up using my existing notes and thinking on UK modelling and local forecasting dynamics?
-- Do the 3 career development aims seem sensible and consistent with the research aims?
-
---------------------------------------------------------------------------------
-
-## Overall strategy
-
-Novel research:
-
-1. Evaluate the consensus model of SPI-M for producing epidemic intelligence in crisis
-2. Compare to the evolution and production of ONS excess death statistics
-3. Improve forecasting in coupled supply-demand systems on response to seasonal winter pressures
-
-Career development:
-
-1. Establish myself as a trusted and respected researcher in real-time crisis epidemiology
-2. Understand the development and tensions of excess mortality statistics, equipped to apply to international and conflict settings
-3. Create tangible improvements in the quality, value, and trust in local authority or NHS trust level use of statistical and modelling tools for decision support
+In the context of SPI-M: it's not always clear how/when quantitative work informs qualitative discussion; or the influence of the qualitative discussion on a resulting consensus statement.
 
 --------------------------------------------------------------------------------
 
 ## Research
 
-1. 
+### THEME 1: Validation
 
-I want to evaluate the SPI-M consensus model for producing estimates of the reproduction number (R) and growth rate (r; combined referred to as R/r) during COVID-19.
+#### 1.1 AIM
 
-Model evaluation includes:
+- How accurate were the SPI-MO consensus model outputs for identifying transmission risk?
 
-- Qualification: Infrastructure and assumptions (SPI-M history, recruitment, assumptions)
-- Verification: Process of expert elicitation, and use of language of uncertainty
-- Validation: Calibration and combination of individual model estimates against best estimates
+#### 1.2 APPROACH
 
-2. 
+##### PAPER: Evaluating the calibration of SPI-M consensus statements
 
-I then want to use the ONS estimation of excess deaths as a comparator to production of SPI-M consensus statements.
+Proper scoring to evaluate the SPI-M consensus estimates of the reproduction number (R) and growth rate (r; combined referred to as R/r) during COVID-19.
 
-- These numbers share similar challenges in estimation.
-  They are are both unobservable, time-lagged, censored, and an often biased summary of heterogeneous epidemiological patterns.
-  This creates parametric uncertainty (any method produces an uncertain estimate), structural uncertainty (there is no single best method for estimation), and unclear responsibility (?).
-- During COVID-19, both estimands were highly policy salient and the subject of constant public scrutiny.
-- The central difference is the mode of production.
-  SPI-MO is an ad hoc, voluntary, responsive group of experts responding to a specific policy situation: it is demand-driven.
-  SPI-MO consensus statements had no clear criteria for their content, but R/growth rate emerged as the consistent product.
-  ONS is an formal, funded, routine producer of all official statistics: it is supply-driven.
-  Excess death statistics are a single well-defined product.
+- Calibration consensus model estimates against best estimates: sharpness (implied median), calibration
+- Why are reproduction numbers so different?
+  (Brockhaus) Re-run individual models against consistent data; compare accuracy and correlation in residuals Harvey-Leybourne-Newbold encompassing test
 
-Comparison of these two modes of production to focus on:
+##### PAPER: GRADE for narrative synthesis - the strength and certainty of consensus reproduction numbers
 
-- Quality: real-time evaluation (peer review)
-- Value: language of uncertainty in consensus statements and published ONS outputs
-- Trust: allocation of responsibility
-
-3. 
-
-Lastly, I want to consider real-time forecasting of hospitalisations during seasonal winter pressures.
-Forecasting seasonal demand lies between supply and demand regimes; neither demand nor supply are yet settled.
-Demand is cyclical (informed by annual JCVI vaccine strategy, seasonal capacity/budget planning).
-There is increasing interest and capacity at UKHSA, and some evidence of ad hoc production within tightly coupled supply-demand settings (NHS, local authorities).
-Quality assurance is likely highly variable.
-Can we balance the lessons of both demand-driven and supply-driven modelling regimes to implement high-quality forecasting and directly improve the use of modelling for real-time decision support?
-
-Work to include:
-
-- Supply: mapping UK modelling expertise
-- Demand: mapping UK decision-making under seasonal pressures
-- Production: considering alternative ways to match supply with demand (forecast challenges; academic working group consensus; academic public health placements; improving within the demand setting e.g. UKHSA estimates).
-  Potentially start with evaluation in UKHSA; real interest in tightly-coupled supply-demand systems (NHS trusts, local authorities)
-
---------------------------------------------------------------------------------
-
-CONTEXT
-
-Some previous text is below.
-See also: all materials in nihr/ and wellcome/ directories, and kath-a-log/greenhouse, for more fleshed out ideas.
-
---------------------------------------------------------------------------------
-
-## Quality
-
-1. The reproduction number & growth rate Rationale:
-   - Epidemiological quality: representation of underlying transmission
-   - Policy value: Use in prospectively driving policy
-   - Public trust: Representation, process of production
-
-2. Short & medium term forecasts Rationale:
-   - Quality: accuracy against observed data (relevance: fastest area of improved methodology i.e. nowcasting)
-   - Value: informs operational response e.g. capacity ovewhelm
-   - Trust:
-
-2. Excess/Avoidable deaths Rationale:
-   - Quality: captures sequelae & Long Covid
-   - Value: Use for assessing effect of better interventions
-   - Trust: best retrospective indicator of overall societal impact
-
-## Value
-
-- History of spi-m i.e. political rationale
-- Handling of uncertainty vs risk
-  - Language of consensus statements: where/when is language of uncertainty used?
-    - statements are full of phrases around estimates: "best estimate", "there is evidence that", "there is uncertainty in X region"
-    - how often are statements about uncertain quantities framed using language of uncertainty?
-- user value, spi-m secretariat
-
-## Trust
-
-- Consensus process, biases, psychological safety, quality assurance
-- Responsibility: 3 lines model; role in emergencies v routine analysis
-- Learning & source network of expertise
-
-#### Role of SPI-M vs. UKHSA
-
-*Background*.
-In COVID-19, SPI-M provided an "equal consensus" approach to comparing and combining evidence from multiple models.
-Thanks to a (good) expansion of capacity and skill within UKHSA, during Pegasus we saw a clearer steer towards a "champion/challenge" model.
-In this format, the UKHSA produces estimates for relevant policy questions, and SPI-M's role is to challenge based on expertise.
-Rather than comparing among modelling work equally, we have a kind of strong prior to be confronted and updated with other models/expertise.
-
-*Challenge.* This led to substantial confusion during Pegasus: it was unclear whether the function of SPI-M was to produce meaningful analysis, to describe their intended analysis, or to provide peer review/critique of UKHSA analysis.
-Without clarity on what UKHSA was planning to or capable of producing, it was difficult to avoid duplicated effort; and unclear when duplicated effort was the intention, i.e. scientific replication, vs redundant.
-By contrast, we could have spent this time supporting UKHSA in their internal process, e.g. reviewing code or supporting tool adoption.
-
-*Implications.*
-
-- Operational.
-  We need to clarify UKHSA capacity both in advance (ideally working with them on whatever their internal protocol is for outbreak response), and in real-time (e.g. code sharing).\
-- Epistemic*.* The champion/challenge format changes how we produce and evaluate evidence.\
-  - *Function.* When might we actually need multiple independent models (to complement UKHSA), rather than critique?
-    Are there some policy questions we should prioritise for challenge?\
-  - *Process*.
-    We could consider UKHSA estimates as an "informative prior".
-    How could/should UKHSA estimates be adjusted based on other work (e.g. weighted)?\
-  - *Outputs*.
-    How do we write a representative consensus statement in this format?
-    How is the language of consistency/conflict expressed, and interpreted (e.g. "Other models were broadly consistent with"), relative to known uncertainty?
-
-#### SPI-M-O, expert elicitation, and group dynamics
-
-*Background*.
-Modelling work is particularly useful as a system for integrating across a patchwork of highly uncertain sources.
-This uncertainty also means that modelling work is highly flexible to individual analytical choices, and open to interpretation.
-As a result, there is no single "best" source of modelling evidence from which to draw policy advice.
-The SPI-M-O group is specifically convened to provide this diversity, from which to create a consensus of evidence for policy decisions.
-In addition, there is strong evidence that experts working in small groups can enable better (more accurate, creative) outcomes.
-
-*Challenge*.
-However, this can also be compromised by (1) recruitment, needing to balance both relevance and diversity of expertise; and (2) group facilitation, to avoid biases in group decision-making (which could be individual, e.g. anchoring, ease of recall; or social, e.g. groupthink, "halo" effects).
-The real-time pressure of emergencies may add to these effects in either direction, while also making it very difficult to capture, report, and consider the impact of such dynamics.
-Nonetheless, addressing groupthink in advisory processes was a specific recommendation of the UK COVID-19 Inquiry.
-As far as I'm aware, there has been little work addressing this within scientific advisory groups in outbreak modelling (if not in other fields).
-
-*Implications.* In the context of SPI-M: it's not always clear how/when quantitative work informs qualitative discussion; or the influence of the qualitative discussion on a resulting consensus statement.
-I can imagine several ways to look at this:
-
-- Clarifying and comparing the role of SPI-M-O in convening discussions, versus asking for and providing quantitative estimates alone\
-- Reviewing concepts from judgement and decision-making literature, where these could be applied to SPI-M processes\
-- Trialling validated tools for expert elicitation (for example, DELPHI or SHELF methods)\
-- Reviewing and considering (existing) civil service standards for both (1) group facilitation for policy decision-making and (2) quality control of "business-critical" modelling work in the civil service\
-- Guidance for communicating the extent of uncertainty, consensus, and conflict around decision making thresholds
-
-## Evaluating the calibration of SPI-M consensus statements
-
-Background:\
-During COVID-19, the UK's Scientific Advisory Group for Emergencies relied on "consensus statements" produced by the epidemiological modelling sub-group, SPI-M.
-It is useful to evaluate the accuracy of these statements.
+- Language of consensus statements: where/when is language of uncertainty used?
+- statements are full of phrases around estimates: "best estimate", "there is evidence that", "there is uncertainty in X region" - how often are statements about uncertain quantities framed using language of uncertainty?
 
 Methods:
 
@@ -212,4 +105,106 @@ Example results:
 Interpretation:
 
 - Potentially: compare to frameworks for writing consensus statements
-- Potentially: compare to frameworks for writing consensus statements
+- Compare with GRADE use of certainty & strength of evidence for reporting decision-relevant synthesis
+
+#### 1.3 OUTCOME
+
+- Summary of strength of calibration and certainty in consensus model Rt estimates
+
+--------------------------------------------------------------------------------
+
+### THEME 2: Verification
+
+#### 2.1 AIM
+
+- How was the impact of transmission risk evaluated?
+
+#### 2.2 APPROACH
+
+##### PAPER: relative value of spi-m consensus process: expert elicitation and group dynamics
+
+- Clarifying and comparing the role of SPI-M-O in convening discussions, versus asking for and providing multiple quantitative estimates alone
+- Reviewing concepts from judgement and decision-making literature, where these could be applied to SPI-M processes; validated tools for expert elicitation (for example, DELPHI or SHELF methods)
+- how to test this experimentally, relevant now (everyone has an LLM)?
+  expert elicitation methods with LLMs?
+  simulation study to suggest anchoring/groupthink biases among modeller discussion?
+
+#### PAPER: taking responsibility for quantifying risk - Role of SPI-M vs. UKHSA
+
+*Background*.
+In COVID-19, SPI-M provided an "equal consensus" approach to comparing and combining evidence from multiple models.
+Thanks to a (good) expansion of capacity and skill within UKHSA, during Pegasus we saw a clearer steer towards a "champion/challenge" model.
+In this format, the UKHSA produces estimates for relevant policy questions, and SPI-M's role is to challenge based on expertise.
+Rather than comparing among modelling work equally, we have a kind of strong prior to be confronted and updated with other models/expertise.
+
+*Challenge.* This led to substantial confusion during Pegasus: it was unclear whether the function of SPI-M was to produce meaningful analysis, to describe their intended analysis, or to provide peer review/critique of UKHSA analysis.
+Without clarity on what UKHSA was planning to or capable of producing, it was difficult to avoid duplicated effort; and unclear when duplicated effort was the intention, i.e. scientific replication, vs redundant.
+By contrast, we could have spent this time supporting UKHSA in their internal process, e.g. reviewing code or supporting tool adoption.
+
+*Implications.*
+
+- SPI-M history
+
+- Operational-We need to clarify UKHSA capacity both in advance (ideally working with them on whatever their internal protocol is for outbreak response), and in real-time (e.g. code sharing)
+
+- Epistemic- The champion/challenge format changes how we produce and evaluate evidence
+  - *Function.* When might we actually need multiple independent models (to complement UKHSA), rather than critique?
+    Are there some policy questions we should prioritise for challenge?
+  - *Process*.
+    We could consider UKHSA estimates as an "informative prior".
+    How could/should UKHSA estimates be adjusted based on other work (e.g. weighted)?
+  - *Outputs*.
+    How do we write a representative consensus statement in this format?
+    How is the language of consistency/conflict expressed, and interpreted (e.g. "Other models were broadly consistent with"), relative to known uncertainty?
+
+Production: considering alternative ways to match supply with demand (forecast challenges; academic working group consensus; academic public health placements; improving within the demand setting e.g. UKHSA estimates).
+
+#### 2.3 OUTCOME
+
+- Reviewing standards for both (1) expert elicitation and (2) quality control of "business-critical" modelling work
+
+--------------------------------------------------------------------------------
+
+### THEME 3: Qualification
+
+#### 3.1 AIM
+
+What evidence (data) and what expertise (assumptions) guarantee a credible expert group?
+
+#### 3.2 APPROACH
+
+##### PAPER: collecting evidence - relative value of information from early data streams
+
+"Models are no substitute for data": Data availability and quality
+
+How useful was evidence from real-time surveillance data?
+
+- documenting availability, representation, biases of real-time data across the infection pathway - on vulnerability (exposure, susceptibility)
+- first-few-hundred linelist -> ehr -> CoMix -> wastewater -> genomics -> ONS community infection survey -> case -> hospitalisation -> deaths -> excess deaths
+- Compare how each data stream captured heterogeneous infection in vulnerable subpopulations
+- Evaluate the cost-effectiveness of different data streams for showing overall + granular patterns
+
+##### PAPER: collecting expertise - academic career survival analysis
+
+Background
+
+- team longevity as important as size to team performance; retaining expertise, building trust
+- Describe challenge of retaining expertise between outbreaks: institutional pressures, lack of incentives
+- Survival analysis for career trajectories of outbreak responders
+
+Methods
+
+- Cohort entry by outbreak.
+- Time to event outcomes (1) responder changes institutions (2) mental health diagnosis (3) exits field
+- Year of birth or year of PhD for cohort effects.
+
+Results
+
+- K-M curve
+- Citations by outbreak timing
+
+Interpretation: Rapid turnover of expertise; effect of early response / first-mover advantage
+
+#### 3.3 OUTCOME
+
+- Guidance for modular interoperable standards for cost-effective surveillance data collection; and institutional academic response
