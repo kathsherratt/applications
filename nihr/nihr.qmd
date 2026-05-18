@@ -10,17 +10,17 @@ resample: risk evaluation in scientific advice from modelling the pandemic:
 
 3. We need to know how accurately and consistently SPI-M consensus statements communicated key epidemiological quantities during COVID-19.
 
-4. We need to establish the relative value of different methods of real-time evidence synthesis to support outbreak decision-making.
+4. We need to establish the relative value of different sources of surveillance data in order to rapidly prioritise investment in traditional and novel surveillance during future outbreaks.
 
-5. We need to develop improved institutional frameworks governing the roles, formation, and continuity of scientific expertise available for outbreak response.
+5. We need to understand the relative value of different sources of scientific expertise in order to improve the reliability and sustainability of outbreak advisory processes.
 
-6. The proposed project will analyse historical SPI-M estimates and experiences, conduct and evaluate expert elicitation, and document institutional processes and structures in order to produce actionable evidence for reforming UK emergency outbreak advisory processes.
+6. The proposed project will analyse historical SPI-M estimates and experiences, document and evaluate real-time surveillance data sources, and document institutional processes and structures in order to produce actionable evidence that informs the use of scientific advice during emergency outbreak response.
 
 7. I will conduct retrospective calibration analysis and quantitative re-estimation of SPI-M consensus statements in order to discover the accuracy and consistency of producing key epidemiological quantities during COVID-19.
 
-8. I will compare how these quantities were estimated using both the SPI-M process of expert elicitation, and the real-time predictive value of novel surveillance data streams, in order to establish the relative value of different methods of evidence synthesis to support outbreak decision-making.
+8. I will compare predictive value across surveillance data streams, in order to establish the relative value of information from investing in novel data sources to support outbreak decision-making.
 
-9. I will analyse career trajectories, institutional roles, and advisory group dynamics in order to develop improved institutional frameworks governing the formation and responsibilities of scientific advisory groups in outbreak response.
+9. I will analyse career trajectories, institutional structures, and advisory group dynamics in order to develop evidence-informed guidance for the formation and responsibilities of scientific advisory groups in outbreak response.
 
 10. This programme of work is co-developed with the lived experience of the modelling peer community, and results will be implemented through publication and direct engagement with the UKHSA and SAGE secretariat, for immediate, practical use in UK emergency response.
 
