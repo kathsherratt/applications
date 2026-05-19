@@ -1,9 +1,0 @@
----
-title: "managing risk with models: improving tools for evaluation"
-author: "Kath Sherratt, Sam Abbott"
-date: today
-format: html
----
-
-Scheme: 
-
