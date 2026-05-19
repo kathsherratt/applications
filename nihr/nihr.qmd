@@ -18,7 +18,7 @@ resample: risk evaluation in scientific advice from modelling the pandemic:
 
 7. I will conduct retrospective calibration analysis and quantitative re-estimation of SPI-M consensus statements in order to discover the accuracy and consistency of producing key epidemiological quantities during COVID-19.
 
-8. I will compare predictive value across surveillance data streams, in order to establish the relative value of information from investing in novel data sources to support outbreak decision-making.
+8. I will collate and quantify value of information across surveillance data streams, in order to establish the relative value of information from investing in novel data sources to support outbreak decision-making.
 
 9. I will analyse career trajectories, institutional structures, and advisory group dynamics in order to develop evidence-informed guidance for the formation and responsibilities of scientific advisory groups in outbreak response.
 
@@ -35,12 +35,15 @@ Routine public health intelligence is ill equipped to handle this.
 In this case, scientific advisors are called upon to provide additional support.
 These provide specialised expertise and may also contribute bespoke research.
 There is also strong evidence that experts working in small groups create more accurate, creative outcomes.
+
 in national emergencies, the UK calls on SAGE and its subgroups of which one is SPI-MO.
 f Modelling work is particularly useful as a system for integrating across a patchwork of highly uncertain sources.
 This uncertainty also means that modelling work is highly flexible to individual analytical choices, and open to interpretation.
 As a result, there is no single "best" source of modelling evidence from which to draw policy advice.
 The SPI-M-O group is specifically convened to provide this diversity, from which to create a consensus of evidence for policy decisions.
 During COVID-19, the UK's Scientific Advisory Group for Emergencies relied on "consensus statements" produced by the epidemiological modelling sub-group, SPI-MO.
+
+
 
 #### The consensus model
 
@@ -53,6 +56,7 @@ Nonetheless, addressing groupthink in advisory processes was a specific recommen
 There has been little work addressing this within scientific advisory groups in outbreak modelling (if not in other fields).
 
 In the context of SPI-M: it's not always clear how/when quantitative work informs qualitative discussion; or the influence of the qualitative discussion on a resulting consensus statement.
+
 
 --------------------------------------------------------------------------------
 
