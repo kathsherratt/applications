@@ -1,18 +1,16 @@
 # Re-calibrating consensus in emergencies: strengthening real-time scientific advice from infectious disease modelling
 
-reconsider: recalibrating consensus science for infectious disease emergency response
-
-resample: risk evaluation in scientific advice from modelling the pandemic:
+reconsider: re-calibrating consensus science in infectious disease emergency response
 
 1. This project will improve the quality of real-time scientific advice during infectious disease emergencies by evaluating and reforming the consensus process used by the UK's expert modelling advisory group (SPI-M), using a novel combination of model calibration, value of information, and institutional analysis that builds on unique access to SPI-M records and participant networks.
 
-2. During highly uncertain emergencies, the credibility, robustness, and transparency of scientific advice is essential to justifying necessary preventative action to protect public health, but this is not rigorously evaluated.
+2. During rapid response emergencies, preventative public health action is increasingly justified by modelling work that synthesises highly uncertain data with established domain expertise, but this process is rarely evaluated and improved upon.
 
-3. We need to know how accurately and consistently SPI-M consensus statements communicated key epidemiological quantities during COVID-19.
+3. We need to know how accurately and consistently the scientific products of SPI-MO capture key epidemiological quantities in order to identify where a consensus-based model performs well or poorly.
 
-4. We need to establish the relative value of different sources of surveillance data in order to rapidly prioritise investment in traditional and novel surveillance during future outbreaks.
+4. We need to establish the value of information from different sources of infectious disease surveillance data in order to rapidly prioritise cost-effective data collection during outbreaks.
 
-5. We need to understand the relative value of different sources of scientific expertise in order to improve the reliability and sustainability of outbreak advisory processes.
+5. We need to understand the process of combining scientific expertise in order to improve the reliability and sustainability of emergency modelling evidence.
 
 6. The proposed project will analyse historical SPI-M estimates and experiences, document and evaluate real-time surveillance data sources, and document institutional processes and structures in order to produce actionable evidence that informs the use of scientific advice during emergency outbreak response.
 
